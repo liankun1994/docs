@@ -26,7 +26,7 @@ name: 下载安装
 - [MySQL](http://dev.mysql.com/downloads/mysql/)（引擎：INNODB）
 - [PostgreSQL](http://www.postgresql.org/download/)
 
-**注意事项** 您可以使用 `etc/mysql.sql` 来自动创建名为 `gogs` 的数据库。如果您选择手动创建，请务必将编码设置为 `utf8mb4`。
+**注意事项** 您可以使用 `scripts/mysql.sql` 来自动创建名为 `gogs` 的数据库。如果您选择手动创建，请务必将编码设置为 `utf8mb4`。
 
 ### 安装其它要求
 
